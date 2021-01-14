@@ -1,5 +1,5 @@
 
-# LoR Master Tracker Beta
+# LoR Master Tracker-beta
 
 <p align="center">
 <img src="Preview/logo.jpg"width="300" height="300"/>
@@ -23,14 +23,14 @@ LoR Master Tracker is a history tracker and deck inspector for League of Runeter
 
 ## Features
 
-* Player History Rank Matches Inspector
+* **Player History Rank Matches Inspector**
 
     By simply providing the player name, LMT can inspect recent rank matches. Multiple Language player names are supported.
 
 ![a](Preview/1.png)
 ![b](Preview/2.gif)
 
-* In-game Opponent Deck Revealer (Coming soon...)
+* **In-game Opponent Deck Revealer (Coming soon...)**
 
     At the game beginning, the opponent deck automatically revealed.
 
