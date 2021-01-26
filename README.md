@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/shaobaili3/lor_master/releases"><img src="https://img.shields.io/badge/version-0.6.0Beta-blue.svg"/></a>
+    <a href="https://github.com/shaobaili3/lor_master/releases"><img src="https://img.shields.io/badge/version-0.6.3Beta-blue.svg"/></a>
     <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/language-Python-<COLOR>.svg"/></a>
     <a href="https://www.microsoft.com/en-au/windows"><img src="https://img.shields.io/badge/platform-Windows -lightgrey.svg"/></a>
     <a href="https://github.com/shaobaili3/LoR-Master-Tracker/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"/></a>
@@ -18,7 +18,7 @@ LoR Master Tracker is a history tracker and deck inspector for League of Runeter
 ## Installation
 
 * Requirements: Windows 7 or higher
-* [Click here to download](https://github.com/shaobaili3/lor_master/releases/download/v0.6.0-beta/LoRMasterTracker-v0.6.0-beta.zip)
+* [Click here to download](https://github.com/shaobaili3/lor_master/releases/download/v0.6.3-beta/LoRMasterTracker-v0.6.3-beta.zip)
 * [Release page](https://github.com/shaobaili3/lor_master/releases)
 
 ## Features
@@ -30,7 +30,7 @@ LoR Master Tracker is a history tracker and deck inspector for League of Runeter
 ![a](Preview/2.gif)
 ![b](Preview/1.png)
 
-* **In-game Opponent Deck Revealer (Coming in next week！！！)**
+* **In-game Opponent Deck Revealer**
 
     At the game beginning, the opponent deck automatically revealed.
 
