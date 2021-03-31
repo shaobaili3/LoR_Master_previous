@@ -6,11 +6,10 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/shaobaili3/lor_master/releases"><img src="https://img.shields.io/badge/version-0.9.0Beta-blue.svg"/></a>
+    <a href="https://github.com/shaobaili3/lor_master/releases"><img src="https://img.shields.io/github/v/release/shaobaili3/lor_master?include_prereleases"/></a>
     <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/language-Python-<COLOR>.svg"/></a>
-    <a href="https://www.microsoft.com/en-au/windows"><img src="https://img.shields.io/badge/platform-Windows -lightgrey.svg"/></a>
     <a href="https://github.com/shaobaili3/LoR-Master-Tracker/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"/></a>
-    <a href="https://github.com/shaobaili3/lor_master/blob/master/README.md"><img src="https://img.shields.io/badge/中文-README-orange.svg"/></a>
+
 </p>
 
 LoR Master Tracker is a history tracker and deck inspector for League of Runeterra.
@@ -19,27 +18,26 @@ LoR Master Tracker is a history tracker and deck inspector for League of Runeter
 
 * Requirements: Windows 7 or higher
 * [Click here to download](https://github.com/shaobaili3/LoR_Master/releases/download/v0.9.0-beta/LoRMasterTracker-v0.9.0-beta.exe)
-* [Release page](https://github.com/shaobaili3/lor_master/releases)
+* [Changelogs](https://github.com/shaobaili3/lor_master/releases)
 
 ## Features
 
-* **Player Matche History Inspector**
+* **Player Match History Inspector**
 
     By simply providing the player name, LMT can inspect recent rank matches. Multiple Language player names are supported.
 ![n](Preview/5.png)
 ![b](Preview/1.png)
-![a](Preview/2.gif)
 
 * **In-game Enemy Deck Tracker**
 
-    At the game beginning, the opponent deck ,rank and lp automatically revealed by real-time enemy tracker.
+    At the game beginning, the opponent deck, rank and lp automatically revealed by real-time enemy tracker.
 
 ![c](Preview/3.png)
 ![d](Preview/4.png)
 
-## Development & Contribution
+## Development (Open-source next version)
 
-LoR Master Tracker is written by pure [Python3](https://www.python.org/downloads/) for cross-platform and local port retrieval. So it can be easily migrated to any different platforms. The Interface is built by [PyQt5](https://riverbankcomputing.com/software/pyqt/download)(No interface builder). I am planning to use Firebase as database and Vue/React as Front-end, besides Electron and Django/Flask frameworks are used to generate both desktop application and web application. This project will be open source before the first stable release(v1.0.0). If you want to contribute the project early, please feel free to contact me to add you to my private repo.
+LoR Master Tracker backend is written by pure [Python3](https://www.python.org/downloads/) for cross-platform and local port retrieval. The main Interface is built by [PyQt6](https://riverbankcomputing.com/software/pyqt/download), the In-game UI is built by [Electron](https://www.electronjs.org/) and [Vuejs](https://github.com/vuejs/vue)
 
 ## FAQ
 
