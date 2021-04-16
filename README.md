@@ -43,3 +43,5 @@ LoR Master Tracker backend is written by pure [Python3](https://www.python.org/d
 
 **Q.** Is using LoR Master Tracker considered cheating?  
 **A.** This project is registered in the [Riot Development Portal](https://developer.riotgames.com/) and the API key is proved by [Riot](https://www.riotgames.com/en). All data source is from [Riot API](https://developer.riotgames.com/apis) and [LoR Data Dragon](https://developer.riotgames.com/docs/lor). There is zero third-party data source and no third-party API.
+
+### Built with ❤ by Storm & FlyingFish
